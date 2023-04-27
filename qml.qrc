@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml-shared/CButton.qml</file>
+        <file>qml-shared/CComboBox.qml</file>
+        <file>qml-shared/CText.qml</file>
+        <file>qml-shared/CMoveArea.qml</file>
+        <file>qml-shared/CMoveRect.qml</file>
+    </qresource>
+</RCC>
